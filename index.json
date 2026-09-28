@@ -1,0 +1,11 @@
+{
+  "org": "dryoma",
+  "repo": "postcss-media-query-parser",
+  "versions": [
+    {
+      "commit": "b7a9bf029ea986a5826cf561a5c2295156ed4632",
+      "tag": "v0.2.0",
+      "parsed_at": "2026-09-28T19:16:23.364265+00:00"
+    }
+  ]
+}

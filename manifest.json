@@ -23,6 +23,84 @@
       ],
       "ast": [
         "aggregate/ast/b7a9bf029ea986a5826cf561a5c2295156ed4632/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/b7a9bf029ea986a5826cf561a5c2295156ed4632.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "babel-cli",
+          "ecosystem": "NPM",
+          "version": "6.6.5",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "57ef6a2b6a213c1424875cd02814f58eed95e669",
+          "githubTag": "v6.6.5",
+          "githubUrl": "https://github.com/babel/babel/tree/master/packages/babel-cli",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "babel-preset-es2015",
+          "ecosystem": "NPM",
+          "version": "6.6.0",
+          "githubOrg": "babel",
+          "githubRepo": "babel",
+          "githubCommit": "f34e6518ff77a8a1940c7b5fa89d7b740d243ad3",
+          "githubTag": "v6.6.0",
+          "githubUrl": "https://github.com/babel/babel/tree/master/packages/babel-preset-es2015",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "babel-tape-runner",
+          "ecosystem": "NPM",
+          "version": "2.0.1",
+          "githubOrg": "wavded",
+          "githubRepo": "babel-tape-runner",
+          "githubCommit": "3dd8ce22cb666c29dcfb6ab06a44dfd3f7b09f4d",
+          "githubTag": "2.0.1",
+          "githubUrl": "git+https://github.com/wavded/babel-tape-runner.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint",
+          "ecosystem": "NPM",
+          "version": "2.5.1",
+          "githubOrg": "eslint",
+          "githubRepo": "eslint",
+          "githubCommit": "b8f5c2ce7af443dbbfd3c23923ed24dd47cbbeaa",
+          "githubTag": "v2.5.1",
+          "githubUrl": "git+https://github.com/eslint/eslint.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint-config-airbnb",
+          "ecosystem": "NPM",
+          "version": "6.0.2",
+          "githubOrg": "airbnb",
+          "githubRepo": "javascript",
+          "githubUrl": "git+https://github.com/airbnb/javascript.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "eslint-plugin-react",
+          "ecosystem": "NPM",
+          "version": "4.2.3",
+          "githubOrg": "jsx-eslint",
+          "githubRepo": "eslint-plugin-react",
+          "githubCommit": "33652317e7f1e96ad0b2377a4bad7d33354038b4",
+          "githubTag": "v4.2.3",
+          "githubUrl": "git+https://github.com/jsx-eslint/eslint-plugin-react.git",
+          "source": "build_file:package.json"
+        },
+        {
+          "packageName": "tape",
+          "ecosystem": "NPM",
+          "version": "4.6.0",
+          "githubOrg": "tape-testing",
+          "githubRepo": "tape",
+          "githubCommit": "3c41af57070f9a6cedfb62e2a6d543b0b15e69ba",
+          "githubTag": "v4.6.0",
+          "githubUrl": "git://github.com/tape-testing/tape.git",
+          "source": "build_file:package.json"
+        }
       ]
     }
   ],

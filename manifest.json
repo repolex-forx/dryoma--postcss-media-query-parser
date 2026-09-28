@@ -101,7 +101,9 @@
           "githubUrl": "git://github.com/tape-testing/tape.git",
           "source": "build_file:package.json"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/b7a9bf029ea986a5826cf561a5c2295156ed4632/chunk-001.nq.gz",
+      "dep": "dep/b7a9bf029ea986a5826cf561a5c2295156ed4632.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

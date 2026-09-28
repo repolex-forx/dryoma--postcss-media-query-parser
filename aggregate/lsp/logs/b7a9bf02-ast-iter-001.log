@@ -1,0 +1,7 @@
+[2026-09-28T19:13:26Z] === AST ITERATION 1 START | repo=dryoma/postcss-media-query-parser sha=b7a9bf02 ===
+[2026-09-28T19:13:26Z] [iter=1] PHASE START: ast repo=dryoma/postcss-media-query-parser sha=b7a9bf02
+[2026-09-28T19:13:26Z] [iter=1] Building AST aggregate chunks
+[2026-09-28T19:13:28Z] [iter=1] AST chunks built count=1 triples=24655
+[2026-09-28T19:13:28Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/b7a9bf029ea986a5826cf561a5c2295156ed4632/.complete
+[2026-09-28T19:13:28Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-09-28T19:13:28Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
